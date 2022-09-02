@@ -13,7 +13,7 @@ then using a console cd into the repository
 and run `make`.
 
 To run this project, you need a TI-84 Plus CE (Device or Emulator) that is able to run assembly programs.
-You will need the clibs.8xg, which can be found [here](https://github.com/CE-Programming/libraries/releases/tag/v10.1).
+You will need the clibs.8xg, which can be found [here](https://github.com/CE-Programming/libraries/releases/latest).
 
 ### License
 
